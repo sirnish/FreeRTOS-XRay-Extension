@@ -1,10 +1,11 @@
 {
   "name": "freertos-xray",
   "displayName": "freertos_xray",
+  "icon" : "./resources/icon.JPG",
   "description": "This extension launches CLI and GUI interface for FreeRTOS debugger.",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.83.1"
+    "vscode": "^1.85.1"
   },
   "categories": [
     "Other"
